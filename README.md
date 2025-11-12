@@ -28,7 +28,7 @@
   table{width:100%;border-collapse:collapse;margin-top:10px;}
   th,td{border:1px solid rgba(255,255,255,.1);padding:8px;text-align:center;}
   th{background:#1b345c;color:#000000 !important;}
-  td input{width:90%;text-align:center;background:#07172b;color:#d9f3ff;
+  td input{width:90%;text-align:center;background:#07172b;color:#000000;
            border:1px solid rgba(255,255,255,.1);border-radius:4px;}
   .btn{background:#c00a0a;border:none;color:black;padding:8px 14px;font-weight:700;
        border-radius:6px;cursor:pointer;}
@@ -36,7 +36,7 @@
   .btn-blue{background:#2563eb;}
   .btn-red{background:#ef4444;}
   .result{margin-top:12px;padding:10px;border-radius:8px;background:#0d223d;color:#aef0db;}
-  textarea{width:100%;height:150px;background:#0a1a2e;color:#d6efff;border:1px solid rgba(255,255,255,.1);
+  textarea{width:100%;height:150px;background:#0a1a2e;color:#000000;border:1px solid rgba(255,255,255,.1);
            border-radius:8px;padding:10px;resize:vertical;}
   footer{background:#0b1220;color:#a0b8cc;font-size:13px;padding:12px;text-align:center;}
 </style>
