@@ -20,11 +20,11 @@
   header h1{font-size:20px;margin:0;line-height:1.2;}
   .container{max-width:1050px;margin:0 auto;padding:20px;}
   h2{margin-top:0;color:#e0f0ff;}
-  .card{background:#13243f;padding:18px;border-radius:12px;margin-bottom:20px;
+  .card{background:#000000;padding:18px;border-radius:12px;margin-bottom:20px;
         box-shadow:0 6px 18px rgba(0,0,0,.4);}
   label{font-size:14px;color:#b7d0ec;margin-bottom:4px;display:block;}
   input[type=text]{width:100%;padding:8px;border-radius:6px;border:1px solid #234a72;
-                   background:#09192d;color:#d8f4ff;margin-bottom:10px;}
+                   background:#09192d;color:#000000;margin-bottom:10px;}
   table{width:100%;border-collapse:collapse;margin-top:10px;}
   th,td{border:1px solid rgba(255,255,255,.1);padding:8px;text-align:center;}
   th{background:#1b345c;color:#000000 !important;}
