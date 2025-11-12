@@ -30,7 +30,7 @@
   th{background:#1b345c;color:#dff6ff;}
   td input{width:90%;text-align:center;background:#07172b;color:#d9f3ff;
            border:1px solid rgba(255,255,255,.1);border-radius:4px;}
-  .btn{background:#c00a0a;border:none;color:white;padding:8px 14px;font-weight:700;
+  .btn{background:#c00a0a;border:none;color:black;padding:8px 14px;font-weight:700;
        border-radius:6px;cursor:pointer;}
   .btn-alt{background:#15803d;}
   .btn-blue{background:#2563eb;}
