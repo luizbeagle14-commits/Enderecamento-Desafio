@@ -27,7 +27,7 @@
                    background:#09192d;color:#d8f4ff;margin-bottom:10px;}
   table{width:100%;border-collapse:collapse;margin-top:10px;}
   th,td{border:1px solid rgba(255,255,255,.1);padding:8px;text-align:center;}
-  th{background:#1b345c;color:#dff6ff;}
+  th{background:#1b345c;color:#000000 !important;}
   td input{width:90%;text-align:center;background:#07172b;color:#d9f3ff;
            border:1px solid rgba(255,255,255,.1);border-radius:4px;}
   .btn{background:#c00a0a;border:none;color:black;padding:8px 14px;font-weight:700;
