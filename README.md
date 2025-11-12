@@ -38,7 +38,7 @@
   .result{margin-top:12px;padding:10px;border-radius:8px;background:#0d223d;color:#aef0db;}
   textarea{width:100%;height:150px;background:#0a1a2e;color:#000000;border:1px solid rgba(255,255,255,.1);
            border-radius:8px;padding:10px;resize:vertical;}
-  footer{background:#0b1220;color:#a0b8cc;font-size:13px;padding:12px;text-align:center;}
+  footer{background:#0b1220;color:#000000;font-size:13px;padding:12px;text-align:center;}
 </style>
 </head>
 <body>
