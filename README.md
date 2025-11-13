@@ -27,6 +27,8 @@
                    background:#09192d;color:#d8f4ff;margin-bottom:10px;}
   table{width:100%;border-collapse:collapse;margin-top:10px;}
   th,td{border:1px solid rgba(255,255,255,.1);padding:8px;text-align:center;}
+  color: #000000 !important; 
+}
   th{background:#1b345c;color:#000000;}
   td input{width:90%;text-align:center;background:#07172b;color:#d9f3ff;
            border:1px solid rgba(255,255,255,.1);border-radius:4px;}
