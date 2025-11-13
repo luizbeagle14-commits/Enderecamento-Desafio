@@ -24,12 +24,10 @@
         box-shadow:0 6px 18px rgba(0,0,0,.4);}
   label{font-size:14px;color:#b7d0ec;margin-bottom:4px;display:block;}
   input[type=text]{width:100%;padding:8px;border-radius:6px;border:1px solid #234a72;
-                   background:#09192d;color:#d8f4ff;margin-bottom:10px;}
-  table{width:100%;border-collapse:collapse;margin-top:10px;}
+                   background:#09192d;color:#d8f4ff;margin-bottom:10px;}/* Localize esta seção (ou similar) no seu bloco <style>: */
+  .table-responsive {width: 100%;overflow-x: auto;margin-top:15px;background:#dff6ff;padding:10px;border-radius: 8px;}
   th,td{border:1px solid rgba(255,255,255,.1);padding:8px;text-align:center;}
-  color: #000000 !important; 
-}
-  th{background:#1b345c;color:#000000;}
+  th{background:#1b345c;color:#dff6ff;}
   td input{width:90%;text-align:center;background:#07172b;color:#d9f3ff;
            border:1px solid rgba(255,255,255,.1);border-radius:4px;}
   .btn{background:#c00a0a;border:none;color:white;padding:8px 14px;font-weight:700;
