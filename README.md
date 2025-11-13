@@ -20,25 +20,25 @@
   header h1{font-size:20px;margin:0;line-height:1.2;}
   .container{max-width:1050px;margin:0 auto;padding:20px;}
   h2{margin-top:0;color:#e0f0ff;}
-  .card{background:#000000;padding:18px;border-radius:12px;margin-bottom:20px;
+  .card{background:#13243f;padding:18px;border-radius:12px;margin-bottom:20px;
         box-shadow:0 6px 18px rgba(0,0,0,.4);}
   label{font-size:14px;color:#b7d0ec;margin-bottom:4px;display:block;}
   input[type=text]{width:100%;padding:8px;border-radius:6px;border:1px solid #234a72;
-                   background:#09192d;color:#000000;margin-bottom:10px;}
+                   background:#09192d;color:#d8f4ff;margin-bottom:10px;}
   table{width:100%;border-collapse:collapse;margin-top:10px;}
   th,td{border:1px solid rgba(255,255,255,.1);padding:8px;text-align:center;}
-  th{background:#1b345c;color:#000000 !important;}
-  td input{width:90%;text-align:center;background:#07172b;color:#000000;
+  th{background:#1b345c;color:#dff6ff;}
+  td input{width:90%;text-align:center;background:#07172b;color:#d9f3ff;
            border:1px solid rgba(255,255,255,.1);border-radius:4px;}
-  .btn{background:#c00a0a;border:none;color:black;padding:8px 14px;font-weight:700;
+  .btn{background:#c00a0a;border:none;color:white;padding:8px 14px;font-weight:700;
        border-radius:6px;cursor:pointer;}
   .btn-alt{background:#15803d;}
   .btn-blue{background:#2563eb;}
   .btn-red{background:#ef4444;}
   .result{margin-top:12px;padding:10px;border-radius:8px;background:#0d223d;color:#aef0db;}
-  textarea{width:100%;height:150px;background:#000000;color:#000000;border:1px solid rgba(255,255,255,.1);
+  textarea{width:100%;height:150px;background:#0a1a2e;color:#d6efff;border:1px solid rgba(255,255,255,.1);
            border-radius:8px;padding:10px;resize:vertical;}
-  footer{background:#0b1220;color:#000000;font-size:13px;padding:12px;text-align:center;}
+  footer{background:#0b1220;color:#a0b8cc;font-size:13px;padding:12px;text-align:center;}
 </style>
 </head>
 <body>
